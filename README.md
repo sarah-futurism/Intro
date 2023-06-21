@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imaginarium23
+- 👋 Hi, I’m Sarah
 - 👀 I’m interested in synthetic biology, neurotechnology, writing music, fiction, making films with AI.
 - 🌱 I’m currently learning about soft robotics, computational evolution, working on my hardware skills by building small projects. 
 - 💞️ I’m looking to collaborate on ... anything, open to chatting and sharing ideas. This was my most recent rabbit hole on biohybrid robotics: 
